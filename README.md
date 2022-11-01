@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcinHajduk2
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming (Python, C/C++, SQL).
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 You can reach me via my mail mchajduk@gmail.com
